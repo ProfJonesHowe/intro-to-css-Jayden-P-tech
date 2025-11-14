@@ -2,14 +2,12 @@
 # Intro_to_CSS
 Assignment #4
 
-Index.Html: 
+HTML page: 
 <!DOCTYPE html>
 <html lang = "en"> 
 <head> 
-
 	<link rel="stylesheet" href="styles.css">
 	<title> My Advanced Webpage </title> 
-	
 </head> 
 <body> 
 <main> 
@@ -50,15 +48,13 @@ Index.Html:
 		</form>
 	</section>
 </main>
-
 	<footer>
 		<p> Web Technologies Essentials </p>
 	</footer>
-		
 </body> 
 </html> 
 
-style.css: 
+CSS: 
 <link rel="stylesheet" href="styles.css">
 body {background: #ffe9f0;}
 
@@ -79,6 +75,3 @@ body {
 	body {padding: 2rem;
 	form {max-width: 600px; }
 }
-
-
-
